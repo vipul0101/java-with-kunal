@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43fe5deb-8898-4662-b725-2817e3eac68c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/Arrays/Passinginfunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Arrays/input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Arrays/multidimentional_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Arrays/Arraylistexample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Arrays/max.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Arrays/multiarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Arrays/swap_reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/reverse_the_integer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Arrays/Arrays_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Arrays/Arrays_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Arrays/multidimentional_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Arrays/multidimentional_array.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,10 +32,10 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "315890ff",
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;315890ff&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2TFwsMv3pMSG5mCrn8nUioOlme5" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -41,16 +44,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
-  <component name="RunManager" selected="Application.Passinginfunction">
-    <configuration name="Arrays_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Arrays.Arrays_1" />
+}]]></component>
+  <component name="RunManager" selected="Application.reverse_the_integer">
+    <configuration name="Arraylistexample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Arrays.Arraylistexample" />
       <module name="java with kunal" />
       <extension name="coverage">
         <pattern>
@@ -62,8 +66,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Passinginfunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Arrays.Passinginfunction" />
+    <configuration name="max" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Arrays.max" />
       <module name="java with kunal" />
       <extension name="coverage">
         <pattern>
@@ -75,8 +79,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="input" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Arrays.input" />
+    <configuration name="multiarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Arrays.multiarray" />
+      <module name="java with kunal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reverse_the_integer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.reverse_the_integer" />
+      <module name="java with kunal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="swap_reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Arrays.swap_reverse" />
       <module name="java with kunal" />
       <extension name="coverage">
         <pattern>
@@ -90,9 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Passinginfunction" />
-        <item itemvalue="Application.input" />
-        <item itemvalue="Application.Arrays_1" />
+        <item itemvalue="Application.reverse_the_integer" />
+        <item itemvalue="Application.swap_reverse" />
+        <item itemvalue="Application.max" />
+        <item itemvalue="Application.multiarray" />
+        <item itemvalue="Application.Arraylistexample" />
       </list>
     </recent_temporary>
   </component>
