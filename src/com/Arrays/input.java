@@ -3,6 +3,8 @@ package com.Arrays;
 import java.util.Arrays;
 import java.util.Scanner;
 
+import static java.util.Arrays.*;
+
 public class input {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
@@ -34,6 +36,7 @@ public class input {
 
 
         // array of objects
+        System.out.println("enjoy your life");
         String [] str = new String[5];
         for(int i =0; i<str.length; i++){
             str[i] = in.next();
