@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43fe5deb-8898-4662-b725-2817e3eac68c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Arrays/Arraylistexample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Arrays/max.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Arrays/multiarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Arrays/swap_reverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/reverse_the_integer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Arrays/multidimentional_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Arrays/multidimentional_array.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
