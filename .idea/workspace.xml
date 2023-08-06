@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43fe5deb-8898-4662-b725-2817e3eac68c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/Arrays/Passinginfunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Arrays/input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Arrays/multidimentional_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Arrays/FindMinimum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Arrays/linear_search_for_strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Arrays/linearsearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Arrays/linearsearchinrange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Arrays/search_in_2D_array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Arrays/Arrays_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Arrays/Arrays_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java with kunal/com/Arrays/input.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java with kunal/com/Arrays/input.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,10 +32,10 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "315890ff",
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;315890ff&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2TFwsMv3pMSG5mCrn8nUioOlme5" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -48,9 +51,9 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Passinginfunction">
-    <configuration name="Arrays_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Arrays.Arrays_1" />
+  <component name="RunManager" selected="Application.linearsearch">
+    <configuration name="FindMinimum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Arrays.FindMinimum" />
       <module name="java with kunal" />
       <extension name="coverage">
         <pattern>
@@ -62,8 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Passinginfunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Arrays.Passinginfunction" />
+    <configuration name="linear_search_for_strings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Arrays.linear_search_for_strings" />
       <module name="java with kunal" />
       <extension name="coverage">
         <pattern>
@@ -75,8 +78,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="input" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Arrays.input" />
+    <configuration name="linearsearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Arrays.linearsearch" />
+      <module name="java with kunal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="linearsearchinrange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Arrays.linearsearchinrange" />
+      <module name="java with kunal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="search_in_2D_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Arrays.search_in_2D_array" />
       <module name="java with kunal" />
       <extension name="coverage">
         <pattern>
@@ -90,9 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Passinginfunction" />
-        <item itemvalue="Application.input" />
-        <item itemvalue="Application.Arrays_1" />
+        <item itemvalue="Application.linearsearch" />
+        <item itemvalue="Application.search_in_2D_array" />
+        <item itemvalue="Application.FindMinimum" />
+        <item itemvalue="Application.linearsearchinrange" />
+        <item itemvalue="Application.linear_search_for_strings" />
       </list>
     </recent_temporary>
   </component>
