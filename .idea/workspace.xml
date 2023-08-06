@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43fe5deb-8898-4662-b725-2817e3eac68c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/Arrays/FindMinimum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Arrays/linear_search_for_strings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Arrays/linearsearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Arrays/linearsearchinrange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Arrays/search_in_2D_array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java with kunal/com/Arrays/input.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java with kunal/com/Arrays/input.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Arrays/search_in_2D_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Arrays/search_in_2D_array.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +45,7 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.linearsearch">
+  <component name="RunManager" selected="Application.search_in_2D_array">
     <configuration name="FindMinimum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Arrays.FindMinimum" />
       <module name="java with kunal" />
@@ -119,8 +113,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.linearsearch" />
         <item itemvalue="Application.search_in_2D_array" />
+        <item itemvalue="Application.linearsearch" />
         <item itemvalue="Application.FindMinimum" />
         <item itemvalue="Application.linearsearchinrange" />
         <item itemvalue="Application.linear_search_for_strings" />
