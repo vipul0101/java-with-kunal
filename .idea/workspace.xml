@@ -5,8 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43fe5deb-8898-4662-b725-2817e3eac68c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/Arrays/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Arrays/binary_search/Ceiling_of_a_number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Arrays/binary_search/Floor_of_the_number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Arrays/binary_search/Leetcode_question_34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Arrays/binary_search/Mountain_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Arrays/binary_search/leetcode_problem_744.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Arrays/binary_search/orderagnosticBS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Arrays/binary_search/peak_element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Arrays/binary_search/peak_position_of_mountain_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Arrays/binary_search/position_of_element_in_infinite_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Arrays/binary_search/programme1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Arrays/search_in_2D_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Arrays/search_in_2D_array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java with kunal/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,16 +55,24 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.search_in_2D_array">
-    <configuration name="FindMinimum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Arrays.FindMinimum" />
+  <component name="RunManager" selected="Application.peak_position_of_mountain_array">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="java with kunal" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="leetcode_problem_744" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Arrays.binary_search.leetcode_problem_744" />
       <module name="java with kunal" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Arrays.*" />
+          <option name="PATTERN" value="com.Arrays.binary_search.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="linear_search_for_strings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Arrays.linear_search_for_strings" />
+    <configuration name="peak_element" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Arrays.binary_search.peak_element" />
       <module name="java with kunal" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Arrays.*" />
+          <option name="PATTERN" value="com.Arrays.binary_search.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="linearsearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Arrays.linearsearch" />
+    <configuration name="peak_position_of_mountain_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Arrays.binary_search.peak_position_of_mountain_array" />
       <module name="java with kunal" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Arrays.*" />
+          <option name="PATTERN" value="com.Arrays.binary_search.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,25 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="linearsearchinrange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Arrays.linearsearchinrange" />
+    <configuration name="position_of_element_in_infinite_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Arrays.binary_search.position_of_element_in_infinite_array" />
       <module name="java with kunal" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="search_in_2D_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Arrays.search_in_2D_array" />
-      <module name="java with kunal" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.Arrays.*" />
+          <option name="PATTERN" value="com.Arrays.binary_search.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.search_in_2D_array" />
-        <item itemvalue="Application.linearsearch" />
-        <item itemvalue="Application.FindMinimum" />
-        <item itemvalue="Application.linearsearchinrange" />
-        <item itemvalue="Application.linear_search_for_strings" />
+        <item itemvalue="Application.peak_position_of_mountain_array" />
+        <item itemvalue="Application.peak_element" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.position_of_element_in_infinite_array" />
+        <item itemvalue="Application.leetcode_problem_744" />
       </list>
     </recent_temporary>
   </component>
